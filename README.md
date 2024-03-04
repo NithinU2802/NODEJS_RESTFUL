@@ -21,3 +21,5 @@ Constraints of RESTFUL:
 
     - Code on Demand
     (Executable code could be transferred)
+    
+![RESTFUL SERVER (API)](https://github.com/NithinU2802/NODEJS_RESTFUL/assets/106614289/6291c016-bece-44d3-8605-5e57c913e112)

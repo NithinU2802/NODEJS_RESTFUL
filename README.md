@@ -1,7 +1,7 @@
 # NODE JS + RESTFUL API
     REST - Representational State Transfer
 
-Constraints of RESTFUL:
+# Constraints of RESTFUL:
 
     - Client-Server Architecture
     ( Separation of Concerns RESTful API should not care abouut UI)
@@ -21,5 +21,13 @@ Constraints of RESTFUL:
 
     - Code on Demand
     (Executable code could be transferred)
+
+# RESTFUL API BACKEND
     
 ![RESTFUL SERVER (API)](https://github.com/NithinU2802/NODEJS_RESTFUL/assets/106614289/6291c016-bece-44d3-8605-5e57c913e112)
+
+# 1. Task Planning & First Step
+
+![RESTFUL SERVER (API) (1)](https://github.com/NithinU2802/NODEJS_RESTFUL/assets/106614289/1c350902-5478-451a-85b9-5a19cda90aa8)
+
+
